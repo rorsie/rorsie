@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home lab server setup including remote VPN connections and firewall configuration</b>
-- <b>Future projects and documentation coming soon! (Azure SIEM project, honeypots, and more!)</b>
+- <b>Azure honeypot project with heat map of attacks using an IP geolocation API script</b>
+- <b>Future projects and documentation coming soon! (Active Directory project and more!)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
