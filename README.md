@@ -16,7 +16,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/rorygonz/">Linkedin Profile</a>
-<p><b>Email:<b/> rorygonzalez5@gmail.com</p>
+<p><b>Email:</b> rorygonzalez5@gmail.com</p>
 
 <!--
 - 🔭 I’m currently working on ...
