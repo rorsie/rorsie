@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <p>
-- <b> <a href="https://github.com/rorsie/homelab"> Home lab</a> server setup including remote VPN connections and firewall configuration</b>
-- <b> <a href="https://github.com/rorsie/Azure-SIEM-Project"> Azure honeypot project </a> with heat map of attacks using an IP geolocation API script</b>
-- <b> <a href="https://github.com/rorsie/ADPS"> Active Directory domain setup </a> on Windows Server 2019 with a Powershell script for automatic user additions</b>
-- <b> <a href="https://github.com/rorsie/pyslots"> Python </a> and <a href="https://github.com/rorsie/hashPS"> Powershell </a> script projects</b>
+- <b> <a href="https://github.com/rorsie/homelab"> Home lab</a> server setup including remote VPN connections and firewall configuration</b> <br/>
+- <b> <a href="https://github.com/rorsie/Azure-SIEM-Project"> Azure honeypot project </a> with heat map of attacks using an IP geolocation API script</b> <br/>
+- <b> <a href="https://github.com/rorsie/ADPS"> Active Directory domain setup </a> on Windows Server 2019 with a Powershell script for automatic user additions</b> <br/>
+- <b> <a href="https://github.com/rorsie/pyslots"> Python </a> and <a href="https://github.com/rorsie/hashPS"> Powershell </a> script projects</b> <br/>
 - <b>Future projects and documentation coming soon!</b>
 </p>
 <h2>🌱 Current learning:</h2>
