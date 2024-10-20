@@ -10,7 +10,7 @@
 - <b>Future projects and documentation coming soon!</b>
 </p>
 <h2>🌱 Current learning:</h2>
-<p>Going through all the tryhackme.com modules and labs that I can fit into my meager brain.</p>
+<p>Focusing on building a good foundation in Python so I can use it for practical applications in networking and general computer activities.</p>
 
 
 <h2> 🤳 Connect with me:</h2>
